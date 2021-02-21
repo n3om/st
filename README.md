@@ -29,7 +29,7 @@ the st terminfo entry with the following command:
 See the man page for additional details.
 
 ## Required Dependencies 
->  Harfbuzz libxft-bgra 
+>  Harfbuzz,libxft-bgra 
 
 Credits
 -------
